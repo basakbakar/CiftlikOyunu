@@ -1,0 +1,10 @@
+C:\Users\Administrator\source\repos\Ciftlik_Proje\Ciftlik_Proje\bin\Debug\Ciftlik_Proje.exe.config
+C:\Users\Administrator\source\repos\Ciftlik_Proje\Ciftlik_Proje\bin\Debug\Ciftlik_Proje.exe
+C:\Users\Administrator\source\repos\Ciftlik_Proje\Ciftlik_Proje\bin\Debug\Ciftlik_Proje.pdb
+C:\Users\Administrator\source\repos\Ciftlik_Proje\Ciftlik_Proje\obj\Debug\Ciftlik_Proje.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\Ciftlik_Proje\Ciftlik_Proje\obj\Debug\Ciftlik_Proje.Form1.resources
+C:\Users\Administrator\source\repos\Ciftlik_Proje\Ciftlik_Proje\obj\Debug\Ciftlik_Proje.Properties.Resources.resources
+C:\Users\Administrator\source\repos\Ciftlik_Proje\Ciftlik_Proje\obj\Debug\Ciftlik_Proje.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\Ciftlik_Proje\Ciftlik_Proje\obj\Debug\Ciftlik_Proje.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Ciftlik_Proje\Ciftlik_Proje\obj\Debug\Ciftlik_Proje.exe
+C:\Users\Administrator\source\repos\Ciftlik_Proje\Ciftlik_Proje\obj\Debug\Ciftlik_Proje.pdb
